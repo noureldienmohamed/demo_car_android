@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Softxpert</string>
+    <string name="brand_name">Brand Name :</string>
+    <string name="cars">Cars</string>
+    <string name="there_are_no_cars">There are no cars</string>
+
+    <string name="check_connection">check connection</string>
+    <string name="there_is_no_internet_connection">There is no internet connection</string>
+</resources>
